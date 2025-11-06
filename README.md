@@ -1,5 +1,7 @@
 ComfyUI_DiffRhythm2 是一个基于小米 DiffRhythm2 模型的 ComfyUI 扩展节点，能够通过 文本提示词/参考歌曲+歌词 生成高质量的音乐作品。
 
+https://github.com/user-attachments/assets/9d67a3df-893c-4ede-9364-10f8b7ca4431
+
 ## 🚀 安装方法
 
 Windows 系统做如下配置. 

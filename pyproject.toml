@@ -1,0 +1,15 @@
+[project]
+name = "diffrhythm2_mw"
+description = "DiffRhythm2 歌曲生成。"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/billwuhao/ComfyUI_DiffRhythm2"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "mw"
+DisplayName = "ComfyUI_DiffRhythm2"
+Icon = ""
